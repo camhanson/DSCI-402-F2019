@@ -43,18 +43,6 @@ def srr(a,b):
         return a
     else: #technically don't need else
         return srr(a, b-1) + b
-        
-#Fibonacci Formula
-def fib(a,b,n):
-    x = 0
-    while n == 1:
-        x = a
-    while n == 2:
-        x = b
-    while n > 2:
-        x = (n-1) + (n-2)
-    return x 
-   
     
 #Recursive fibonacci formula
 def rfib(a,b,n):
