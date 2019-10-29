@@ -34,7 +34,7 @@ def all_perms(List):
     return result
    
    
-#Number Spiral         
+#Number Spiral - given n and end_corner creates a spiral matrix with 0 at the center        
 import numpy as np           
 def spiral(n, end_corner):
     starting_corner = {1:[0,0], 2:[0,n-1], 3:[n-1,0], 4:[n-1,n-1]}
