@@ -1,5 +1,5 @@
 "CustID","Gender","Age","Income","FamilySize","Education","Calls","Visits","Churn"
-123251,"Male",34,"Lower",4,16,14,5,"Yes"
+123251,"Male",34,"Lower",4,16,14,5,"Yes"https://github.com/camhanson/DSCI-402-F2019/blob/master/churn_data.csv
 188922,"Male",20,"Lower",5,14,49,1,"No"
 145322,"Female",30,"Lower",4,20,19,4,"Yes"
 153729,"Female",46,"Lower",4,14,15,4,"Yes"
